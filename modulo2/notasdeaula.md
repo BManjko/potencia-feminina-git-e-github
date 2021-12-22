@@ -9,5 +9,8 @@
 ## git add .
  **adiciona todos os arquivos para a esteira de commit**
 
+## git commit -m "resumo do que foi aplicado"
+ **envia para o repositorio os arquivos ajustados**
+
 ## git add caminhodoarquivo
 **adiciona o arquivo específico** 
